@@ -3,7 +3,7 @@ import reactRefresh from "@vitejs/plugin-react-refresh";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "teller",
+  base: "/teller/",
   plugins: [reactRefresh()],
   esbuild: {
     jsxInject: `import React from 'react'`,
