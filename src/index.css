@@ -1,0 +1,33 @@
+* {
+  text-align: center !important;
+  font-weight: bold;
+}
+#root {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  width: 100%;
+}
+.ui.container {
+  width: 60%;
+}
+.ui.input {
+  height: 25px;
+  width: 100% !important;
+  text-align: center;
+}
+.ui.input > input {
+  width: 100% !important;
+}
+td {
+  height: 40px;
+}
+[contenteditable] {
+  padding: 5px 10px;
+}
+input {
+  border: 0px !important;
+}
+input:focus {
+  border: 1px skyblue solid !important;
+}
