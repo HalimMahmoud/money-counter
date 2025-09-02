@@ -1,14 +1,6 @@
-# 🧮 Cash Counting Tool
+# 🧮 Moeny Counter - Cash Counting Tool
 
 A lightweight **cash counting tool** for calculating daily totals with **two-way binding**. Built with **React 17**, **Valtio** state management, and **Vite** for blazing-fast development. Unlike Excel, this app allows direct edits in calculated cells **without breaking formulas**.
-
-## ✨ Features
-
-- 🔄 **Two-way binding** with [Valtio](https://github.com/pmndrs/valtio)
-- 📝 **Editable calculated cells** – safe edits without breaking formulas
-- 💵 **Daily totals calculation** – fast and accurate
-- ⚡ **Vite-powered** development (super fast refresh and builds)
-- 🎨 UI with [Semantic UI React](https://react.semantic-ui.com/)
 
 ## ✨ Features
 
