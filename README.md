@@ -1,6 +1,6 @@
 # 🧮 Moeny Counter - Cash Counting Tool
 
-A lightweight **cash counting tool** for calculating daily totals with **two-way binding**. Built with **React 17**, **Valtio** state management, and **Vite** for blazing-fast development. Unlike Excel, this app allows direct edits in calculated cells **without breaking formulas**.
+A lightweight **cash counting tool** for calculating daily totals with **two-way binding**. Built with **React 18**, **Valtio** state management, and **Vite** for blazing-fast development. Unlike Excel, this app allows direct edits in calculated cells **without breaking formulas**.
 
 ## ✨ Features
 
